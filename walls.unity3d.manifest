@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 105945663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57714dc01db99d7c5823c4e7d15ffac7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 234d185ef25e4659214c411635d4afe0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Wall2.prefab
+- Assets/Models/Wall1.prefab
+Dependencies: []
