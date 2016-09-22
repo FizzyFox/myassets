@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1636800210
+CRC: 3479932447
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3b5fa41066f80c797b8bd8a17b480470
+    Hash: c9bce262f1cd358ea8c8bce4046f2e69
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4923a5c8209e3977fa51d44938696922
+    Hash: 234d185ef25e4659214c411635d4afe0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,8 +23,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 54
+- Class: 65
   Script: {instanceID: 0}
 Assets:
-- Assets/Prefabs/Backgroud.prefab
+- Assets/Prefabs/Walls.prefab
 Dependencies: []
