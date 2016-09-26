@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1408366535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1daf06804557cc776a59c0854b2f6cc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e72fcdd9e4c000021ac41b2be8aad9e1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5925e5f6a29480a44bff9da548496d88, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Back.prefab
+Dependencies: []
